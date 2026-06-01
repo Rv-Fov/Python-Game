@@ -1,6 +1,6 @@
 # Python-Game
 
-Nama : Muhammad Arifin Umasangadji
+Nama : Muhammad Arifin Umasangadji  
 NRP  : 5024241083
 
 ---
