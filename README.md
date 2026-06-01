@@ -196,15 +196,15 @@ python main.py
 
 ### Main Menu
 
-Tambahkan screenshot menu di sini.
+//
 
 ### Gameplay
 
-Tambahkan screenshot gameplay di sini.
+//
 
 ### Game Over
 
-Tambahkan screenshot game over di sini.
+//
 
 ---
 
@@ -213,7 +213,7 @@ Tambahkan screenshot game over di sini.
 Tambahkan link video demonstrasi:
 
 ```text
-https://youtu.be/link-video-demo
+httpssss
 ```
 
 
