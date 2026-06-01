@@ -138,8 +138,6 @@ Space-Field
 ├── METEOR.png
 ├── earth.png
 ├── space.jpg
-├── MENU.wav
-├── INGAME.wav
 ├── PixelifySans-VariableFont_wght.ttf
 │
 ├── screenshots/
@@ -149,6 +147,10 @@ Space-Field
 │
 └── README.md
 ```
+
+BGM Music :
+Menu : https://www.youtube.com/watch?v=mRN_T6JkH-c&list=PLwJjxqYuirCLkq42mGw4XKGQlpZSfxsYd&index=4
+Game : https://www.youtube.com/watch?v=l7SwiFWOQqM&list=PLwJjxqYuirCLkq42mGw4XKGQlpZSfxsYd&index=7
 
 ---
 
