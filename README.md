@@ -132,9 +132,7 @@ winsound.PlaySound(...)
 Space-Field-Adventure/
 │
 ├── Tester.py
-│
-├
-│── pesawat.png
+├── pesawat.png
 ├── Enemy.png
 ├── meteorite.png
 ├── METEOR.png
