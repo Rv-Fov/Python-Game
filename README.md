@@ -3,6 +3,8 @@
 Nama : Muhammad Arifin Umasangadji
 NRP  : 5024241083
 
+---
+
 ##  Deskripsi Project
 
 Space Field merupakan game berbasis python bertema space shooter yang dikendalikan menggunakan gerakan tangan secara real time melalui webcam. Pemain mengontrol pesawat luar angkasa dengan menggerakkan tangan di depan kamera dan menembakkan peluru menggunakan gesture tertentu.
@@ -18,11 +20,12 @@ Pemain mengontrol pesawat luar angkasa menggunakan tangan yang terdeteksi oleh k
 ### Mekanisme Permainan
 
 * Gerakan tangan mengontrol posisi pesawat.
-* Gesture tangan digunakan untuk menembakkan peluru.
+* Gesture membuka telapak tangan digunakan untuk menembakkan peluru.
 * Pemain harus menghancurkan meteor dan pesawat musuh.
 * Setiap objek yang berhasil dihancurkan akan menambah skor.
 * Pemain memiliki 3 nyawa.
 * Permainan berakhir ketika seluruh nyawa habis.
+
 
 ### Sistem Skor
 
@@ -224,34 +227,4 @@ Tambahkan link video demonstrasi:
 https://youtu.be/link-video-demo
 ```
 
----
-
-## 📋 Kesesuaian dengan Ketentuan Project
-
-| Ketentuan             | Status |
-| --------------------- | ------ |
-| Webcam Input          | ✅      |
-| OpenCV VideoCapture   | ✅      |
-| HSV Skin Detection    | ✅      |
-| Gesture Detection     | ✅      |
-| Second Object         | ✅      |
-| Scoring System        | ✅      |
-| Real-Time Tracking    | ✅      |
-| Alpha Blending Sprite | ✅      |
-| Publikasi GitHub      | ✅      |
-| README.md             | ✅      |
-
----
-
-## 👨‍💻 Anggota Kelompok
-
-* Muhammad Arifin Umasangadji
-* Nama Anggota 2
-* Nama Anggota 3
-
----
-
-## 📄 Lisensi
-
-Proyek ini dikembangkan untuk memenuhi tugas Project Pengolahan Citra dan Visi Komputer (PCV).
 
