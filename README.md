@@ -129,7 +129,7 @@ winsound.PlaySound(...)
 ## 📂 Struktur Folder
 
 ```text
-Space-Field-Adventure/
+Space-Field
 │
 ├── Tester.py
 ├── pesawat.png
