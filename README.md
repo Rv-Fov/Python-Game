@@ -124,17 +124,6 @@ Audio diputar menggunakan library bawaan Windows:
 ```python
 winsound.PlaySound(...)
 ```
-
----
-
-## 🛠️ Teknologi yang Digunakan
-
-* Python 3.x
-* OpenCV
-* NumPy
-* Pillow (PIL)
-* WinSound
-
 ---
 
 ## 📂 Struktur Folder
@@ -142,18 +131,18 @@ winsound.PlaySound(...)
 ```text
 Space-Field-Adventure/
 │
-├── main.py
+├── Tester.py
 │
-├── assets/
-│   ├── pesawat.png
-│   ├── Enemy.png
-│   ├── meteorite.png
-│   ├── METEOR.png
-│   ├── earth.png
-│   ├── space.jpg
-│   ├── MENU.wav
-│   ├── INGAME.wav
-│   └── PixelifySans-VariableFont_wght.ttf
+├
+│── pesawat.png
+├── Enemy.png
+├── meteorite.png
+├── METEOR.png
+├── earth.png
+├── space.jpg
+├── MENU.wav
+├── INGAME.wav
+├── PixelifySans-VariableFont_wght.ttf
 │
 ├── screenshots/
 │   ├── menu.png
