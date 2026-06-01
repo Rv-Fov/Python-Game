@@ -13,7 +13,7 @@ Proyek ini dikembangkan menggunakan Python dan OpenCV. Sistem deteksi tangan mem
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 Pemain mengontrol pesawat luar angkasa menggunakan tangan yang terdeteksi oleh kamera.
 
@@ -38,7 +38,7 @@ Pemain mengontrol pesawat luar angkasa menggunakan tangan yang terdeteksi oleh k
 
 ---
 
-## 🖥️ Fitur Utama
+## Fitur Utama
 
 ### 1. Hand Tracking
 
@@ -77,12 +77,11 @@ mask_skin = cv.inRange(
 
 ### 4. Second Object
 
-Game menggunakan berbagai objek interaktif:
+Game menggunakan berbagai objek:
 
 * Pesawat pemain
 * Meteor kecil
 * Meteor besar
-* Mini meteor
 * Pesawat musuh
 * Peluru pemain
 * Peluru musuh
@@ -166,7 +165,7 @@ Space-Field-Adventure/
 
 ---
 
-## ▶️ Cara Menjalankan Program
+##  Cara Menjalankan Program
 
 ### 1. Clone Repository
 
@@ -188,7 +187,7 @@ python main.py
 
 ---
 
-## 🎹 Kontrol
+## Kontrol
 
 | Tombol | Fungsi          |
 | ------ | --------------- |
@@ -203,7 +202,7 @@ python main.py
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ### Main Menu
 
