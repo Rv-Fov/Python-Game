@@ -196,15 +196,15 @@ python main.py
 
 ### Main Menu
 
-//
+![Main Menu](Assets/menu.png)
 
 ### Gameplay
 
-//
+![Main Menu](Assets/gameplay.png)
 
 ### Game Over
 
-//
+![Main Menu](Assets/over.png)
 
 ---
 
