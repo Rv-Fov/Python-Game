@@ -213,7 +213,7 @@ python main.py
 Tambahkan link video demonstrasi:
 
 ```text
-httpssss
+https://youtu.be/Ted6dW_apJI
 ```
 
 
